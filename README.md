@@ -48,5 +48,9 @@
 <img src="image/2.png" width="500"><br><br>
 - 重新畫面<br>
 <img src="image/3.png" width="500"><br><br>
+- 電腦畫面<br>
+<img src="video/電腦畫面.gif" width="500"><br><br>
+- 手機畫面<br>
+<img src="video/手機畫面.gif" width="500"><br><br>
 
 ---
