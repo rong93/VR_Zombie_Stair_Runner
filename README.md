@@ -41,7 +41,12 @@
 
 ---
 
-## 📁 專案結構
+## 📷 畫面展示
 
-> 📌 **主要程式碼位置：** [`Assets/Supercyan Character Pack Zombie Sample/Scripts`](Assets/Supercyan%20Character%20Pack%20Zombie%20Sample/Scripts/)
+- 遊玩畫面<br>
+<img src="image/1.png" width="500"><br><br>
+<img src="image/2.png" width="500"><br><br>
+- 重新畫面<br>
+<img src="image/3.png" width="500"><br><br>
 
+---
