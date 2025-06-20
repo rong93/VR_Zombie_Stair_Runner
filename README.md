@@ -54,3 +54,6 @@
 <img src="video/手機畫面.gif" width="500"><br><br>
 
 ---
+
+📌 **主要腳本位置：** [`Assets/Supercyan Character Pack Zombie Sample/Scripts/`](Assets/Supercyan%20Character%20Pack%20Zombie%20Sample/Scripts/)
+
